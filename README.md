@@ -68,4 +68,3 @@ export default tseslint.config([
 ])
 ```
 # psg-silver-card
-# vite-react-ts-biome-template
